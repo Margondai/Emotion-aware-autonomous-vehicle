@@ -2,7 +2,7 @@
 
 This repository contains code and supplementary materials for the paper:
 
-📄 View the full paper [here](./Emotion_Aware_Autonomous_Vehicle_Paper.pdf)
+📄 View the full paper [here](./Madrid - WIP- Camera ready.pdf)
 
 **"Emotion-Aware Autonomous Vehicle Control: A Novel Framework for Driver State Management Through Adaptive AI-Driven Interventions"**  
 Presented at ANNSIM 2025, Universidad Complutense de Madrid.
